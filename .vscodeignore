@@ -1,5 +1,31 @@
-.gitignore
-.vscode/**
-*.md
-!README.md
+# VSCode Extension Ignore File
+# Files and directories to exclude from the published extension
 
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+.DS_Store
+*.vsix
+node_modules/**
+.editorconfig
+.eslintrc.json
+tsconfig.json
+tslint.json
+**/*.map
+**/*.ts
+!**/*.d.ts
+
+# Development files
+.cursor/**
+screenshots/**
+
+# Git and GitHub files
+.github/**
+.git/**
+.gitattributes
+
+# Documentation files (optional - uncomment if you don't want these in the package)
+# README.md
+# CHANGELOG.md
+# LICENSE

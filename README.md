@@ -4,12 +4,17 @@ Theme based on the Vercel code theme from ray.so.
 
 ## Installation
 
-1. Copy to Cursor/VSCode extensions folder
+### From Marketplace (Coming Soon)
+Search for "Vercel Theme" in the VSCode/Cursor Extensions marketplace and install.
 
-   - **macOS/Linux**: `~/.cursor/extensions/vercel-theme/themes/` or `~/.vscode/extensions/vercel-theme/themes/`
-   - **Windows**: `%USERPROFILE%\.cursor\extensions\vercel-theme\themes\` or `%USERPROFILE%\.vscode\extensions\vercel-theme\themes\`
+### Manual Installation
 
-3. Reload VSCode and select the theme:
+1. Download or clone this repository
+2. Copy the entire folder to your extensions directory:
+   - **macOS/Linux**: `~/.cursor/extensions/` or `~/.vscode/extensions/`
+   - **Windows**: `%USERPROFILE%\.cursor\extensions\` or `%USERPROFILE%\.vscode\extensions\`
+3. Restart VSCode/Cursor
+4. Select the theme:
    - Open Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
    - Type "Color Theme"
    - Select "Vercel"

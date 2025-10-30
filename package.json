@@ -9,6 +9,10 @@
     "type": "git",
     "url": "https://github.com/nmcgrady/vercel-vscode-theme"
   },
+  "homepage": "https://github.com/nmcgrady/vercel-vscode-theme#readme",
+  "bugs": {
+    "url": "https://github.com/nmcgrady/vercel-vscode-theme/issues"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -25,7 +29,7 @@
       {
         "label": "Vercel",
         "uiTheme": "vs-dark",
-        "path": "./vercel.json"
+        "path": "./themes/vercel.json"
       }
     ]
   },
