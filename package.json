@@ -1,6 +1,6 @@
 {
   "name": "vercel-theme",
-  "displayName": "Vercel",
+  "displayName": "Vercel Theme",
   "description": "Vercel theme for VSCode/Cursor based on ray.so",
   "version": "1.0.0",
   "publisher": "nmcgrady",
