@@ -1,0 +1,37 @@
+{
+  "name": "vercel-theme",
+  "displayName": "Vercel",
+  "description": "Vercel theme for VSCode/Cursor based on ray.so",
+  "version": "1.0.0",
+  "publisher": "nmcgrady",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmcgrady/vercel-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "vercel",
+    "cursor",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vercel",
+        "uiTheme": "vs-dark",
+        "path": "./vercel.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}
+
