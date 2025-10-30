@@ -4,6 +4,7 @@
   "description": "Vercel theme for VSCode/Cursor based on ray.so",
   "version": "1.0.0",
   "publisher": "nmcgrady",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/nmcgrady/vercel-vscode-theme"
