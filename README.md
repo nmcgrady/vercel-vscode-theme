@@ -2,6 +2,10 @@
 
 Theme based on the Vercel code theme from ray.so. 
 
+## Preview
+
+![Vercel Theme Screenshot](screenshots/screenshot.png)
+
 ## Installation
 
 ### From Marketplace (Coming Soon)
