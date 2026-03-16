@@ -327,6 +327,18 @@
       }
     },
     {
+      "scope": [
+        "variable.object.property.tsx",
+        "meta.definition.property.tsx",
+        "meta.field.declaration.tsx",
+        "meta.object.type.tsx",
+        "meta.type.declaration.tsx"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
         "foreground": "#00cb50"

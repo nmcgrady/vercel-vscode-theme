@@ -2,7 +2,7 @@
   "name": "vercel-vscode-theme",
   "displayName": "Vercel VSCode Theme",
   "description": "Vercel theme for VSCode/Cursor based on ray.so",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "natemcgrady",
   "license": "MIT",
   "repository": {

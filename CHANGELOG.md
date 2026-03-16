@@ -2,6 +2,11 @@
 
 All notable changes to the "Vercel Theme" extension will be documented in this file.
 
+## [1.0.2] - 2025-03-16
+
+### Changed
+- Object property and type declaration tokens (variable.object.property, meta.definition.property, meta.field.declaration, meta.object.type, meta.type.declaration) now use white instead of green
+
 ## [1.0.1] - 2025-11-04
 
 ### Changed
